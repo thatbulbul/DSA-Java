@@ -11,6 +11,7 @@ public class largestNumber {
                 smallest=marks[i];
             }
         }
+        System.out.println("the smallest value is "+ smallest);
         return largest;
     }
 
