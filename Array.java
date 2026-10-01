@@ -10,5 +10,6 @@ public class Array {
         marks[1]=sc.nextInt();
         System.out.println("the maths marks are"+marks[0]);
         System.out.println("the science marks are"+marks[1]);
+        System.out.println(marks.length);
     }
 }
